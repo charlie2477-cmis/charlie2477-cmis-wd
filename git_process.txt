@@ -1,0 +1,11 @@
+Open Terminal: press menu then click terminal
+cd (github username)
+gedit (filename)
+Enter the words you need in your file
+git add (filename)
+git commit -m "comment"
+git push 
+Type your github username
+Type Password
+ENTER
+
