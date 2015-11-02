@@ -1,0 +1,6 @@
+cd (email)
+ls look over
+git add filename
+git commit -m 
+git push
+git clone
