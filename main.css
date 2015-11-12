@@ -1,3 +1,4 @@
+	
 h1 {
 	font-family:Georgia;
 	color:purple;
@@ -5,12 +6,34 @@ h1 {
 	background-color:yellow;
 	border:dashed 80px blue;
 	font-weight:bold;
-	border-bottom-color: #f9f7f7;
+	border-bottom-color: #3333FF;
     	border-bottom-style: solid;
-    	border-bottom-width: 6px;
-    	border-right-color: #f9f7f7;
+    	border-bottom-width: 40px;
+    	border-right-color: #000066;
    	border-right-style: solid;
-    	border-right-width: 1px;
+    	border-right-width: 30px;
+	border-left-color: #000066;
+	border-left-style: groove dashed double;
+	border-left-width: 30px; 
+	border-top-color: black;
+	border-top-style:dotted;
+	border-top-width: 30px;
+}
+main {
+	color: yellow;	
+	background-color: green;
+	border-bottom-color: #CC0066;
+    	border-bottom-style: dashed;
+    	border-bottom-width: 50px;
+    	border-right-color: #000066;
+   	border-right-style: solid;
+    	border-right-width: 30px;
+	border-left-color: #000066;
+	border-left-style: groove dashed double;
+	border-left-width: 30px; 
+	border-top-color: black;
+	border-top-style:dotted;
+	border-top-width: 30px;
 }
 h2 {
 	font-family:Arial;
@@ -38,5 +61,19 @@ footer {
 	border:dashed 7px red;
 	font-weight:bold;
 }
-body {
-	background-color:#00FFFF
+header {
+	color: #9a33ff;	
+	background-color:  #9a33ff;
+	border-bottom-color: #003366;
+    	border-bottom-style: dashed 1px;
+    	border-bottom-width: 70px;
+    	border-right-color: #FF3300;
+   	border-right-style: solid dashed;
+    	border-right-width: 40px;
+	border-left-color: #FFFF00;
+	border-left-style: groove dashed double;
+	border-left-width: 30px; 
+	border-top-color: #996633;
+	border-top-style:dotted;
+	border-top-width: 35px;
+}
