@@ -1,0 +1,38 @@
+h1 {
+	font-family:impact;
+	font-style:italic;
+	color:yellow;
+	font-size:30px;
+	background-color:green;
+        border-bottom-style: dashed;
+}
+h2 {
+	font-family:impact;
+	font-style:italic;
+	color:blue;
+	font-size:15px;
+	background-color:red;
+	line-height: 200%;
+	font-weight: normal;
+	text-align: left;
+	border-bottom-style: dashed;
+   	border-bottom-width: 15px;
+	border-bottom-color: yellow;
+}
+main {
+	background-color: red;
+}
+p { 
+	color: yellow;
+	font-size:20px;
+	font-family:arial;
+	background-color:purple;
+	font-weight:bold;
+}
+
+
+	
+
+	
+	
+	
